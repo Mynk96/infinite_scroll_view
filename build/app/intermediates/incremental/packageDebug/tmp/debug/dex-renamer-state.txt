@@ -1,0 +1,4 @@
+#Sat May 01 12:17:26 IST 2021
+base.0=/Users/mayank/Desktop/design_community/design_community/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
